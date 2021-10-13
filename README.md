@@ -7,7 +7,7 @@ I use Strapi for this reason, so there is nothing to share.
 
 ## Structure 
 
-![Block-scheme](https://github.com/ytarefson/portfolio-app/raw/master/readme-structure.jpg)
+![Block-scheme](https://github.com/ytarefson/portfolio-app/main/readme-structure.jpg)
 
 ## Used technologies
 
